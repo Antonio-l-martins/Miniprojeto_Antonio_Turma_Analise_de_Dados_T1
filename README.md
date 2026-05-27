@@ -1,0 +1,2 @@
+# Miniprojeto_Antonio_Turma_Analise_de_Dados_T1
+Miniprojeto SCTEC
